@@ -21,7 +21,6 @@ namespace Task2
                 z = a /b;
                 Console.WriteLine(z);
             }
-
         }   
     }
 }
